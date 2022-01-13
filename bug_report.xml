@@ -1,4 +1,4 @@
-{?xml version="1.0" encoding="UTP=8"?}
+<?xml version="1.0" encoding="UTF-8"?>
 <Bugreport>
 <Summary>[Application] Lack of separation mark between menu items</Summary>
 <Type>Bug</Type>
