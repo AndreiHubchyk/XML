@@ -1,1 +1,15 @@
-
+{?xml version="1.0" encoding="UTP=8"?}
+<Bugreport>
+<Summary>[Application] Lack of separation mark between menu items</Summary>
+<Type>Bug</Type>
+<Priority>Major</Priority>
+<Affects_Version>1.0</Affects_Version>
+<Components>pplication</Components>
+<Environment>Win 10 Pro x 64, Google Chrome Version 94.0.4606.81(64 bit)</Environment>
+<Severity_or_Importance>4-Minor</Severity_or_Importance> 
+<Description>Steps to reproduce : Log in to the website as an administrator , Pay attention on the menu item</Description>
+<Actual_result>There is no element between the 'Schedule' and 'Charter management' menu item</Actual_result> 
+<Please_see_attachment>sing.png</Please_see_attachment>  
+<Expected_result>There should be an element between the menu item 'Schedule' and 'Charter Management</Expected_result>  
+<Error_Type>GUI</Error_Type> 
+</Bugreport>
